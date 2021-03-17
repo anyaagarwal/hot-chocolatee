@@ -4,6 +4,6 @@ function setup(){
 
 function draw(){
     drawSprites();
-    Text("recipe for hot chocolate");
-    
+    text("recipe for hot chocolate",300,300);
+
 }
